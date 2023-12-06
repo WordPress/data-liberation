@@ -6,4 +6,5 @@
 - [HTML to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/html-to-wordpress.md)
 - [RSS to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/rss-to-wordpress.md)
 - [Blogger to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/blogger-to-wordpress.md)
-- [DRupal to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/drupal-to-wordpress.md)
+- [Drupal to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/drupal-to-wordpress.md)
+- [WordPress to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/wordpress-to-wordpress.md)

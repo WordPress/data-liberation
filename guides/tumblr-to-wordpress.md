@@ -1,28 +1,12 @@
-> [!NOTE]  
-> **Work in Progress:** This document is currently being developed and may undergo changes.
-
 # Tumblr to WordPress
 
-Are you ready to move from Tumblr to WordPress? Let’s cover the basics!
+WordPress includes an import tool designed specifically for importing content from Tumblr.
 
-## Step 1: Run the Importer
-
-1. Go to **Tools > Import** in your Dashboard.
-2. Choose **Install Now** below Tumblr, and then **Activate Plugin & Run Importer**.
-
-## Step 2: Connect to Tumblr
-
-Follow the instructions specifically. Once you provide your OAuth and Secret Key as detailed and click **Connect to Tumblr**, you’ll be prompted to connect to Tumblr. Follow the steps provided again, and you’ll be on your way to WordPress!
-
-On the next screen, click **“Import this blog”** next to the blog you’re importing from your Tumblr account, and wait.
-
-Sometimes the importer finds an embed it can’t convert. A list of these is included in the import completion email for you to check.
-
-If your Tumblr site has a custom domain (like yourgroovydomain.com instead of automattic.tumblr.com), then you’ll need to disable the custom domain temporarily while the import is processed. You can do this on Tumblr by clicking on **Settings** on the left, choosing the blog you’d like to update on the right, then toggling the **“Use a custom domain”** marker to the off position.
-
-## Step 4: Start Using WordPress
-
-- Take your first steps with WordPress in this straight-forward crash course.
-- Learn about WordPress with tons of tutorials and previous webinars at your fingertips.
-- Join a free webinar to learn even more.
-- And, please visit the forums if you have any questions!
+1. In your WordPress site, select **Tools > Import** on the left nav of the admin screen.
+2. Under “Tumblr,” if you haven’t already installed the importer, click “Install Now.”
+3. Click the “Run Importer” link.
+4. Click “Choose File” and navigate to your export file.
+5. Click “Upload file and import.”
+6. Create an app on Tumblr that provides a connection point between your blog and Tumblr’s servers.
+7. Copy and paste the “OAuth Consumer Key” and “Secret Key.”
+8. Click “Connect to Tumblr.”
