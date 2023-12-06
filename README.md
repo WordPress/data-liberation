@@ -1,7 +1,5 @@
 # Project Name TBD
 
-## Project Description
-
 Welcome to [Project Name TBD]! This section provides a brief overview of the project and its goals.
 
 ## How to Contribute
