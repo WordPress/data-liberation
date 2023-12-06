@@ -1,8 +1,8 @@
-# Squarespace to WordPress
+# WIX to WordPress
 
 🚧 **This Guide is a Work in Progress! We Need Your Help!** 🚧
 
-We are in the process of creating a comprehensive guide to help users migrate from Squarespace to WordPress. Your insights and contributions are invaluable to make this guide more complete and helpful for the community.
+We are in the process of creating a comprehensive guide to help users migrate from WIX to WordPress. Your insights and contributions are invaluable to make this guide more complete and helpful for the community.
 
 ## How You Can Contribute
 
