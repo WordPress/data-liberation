@@ -26,5 +26,3 @@ If your Tumblr site has a custom domain (like yourgroovydomain.com instead of au
 - Learn about WordPress with tons of tutorials and previous webinars at your fingertips.
 - Join a free webinar to learn even more.
 - And, please visit the forums if you have any questions!
-
-[Visit the migration guides for more details](https://cometp2.wordpress.com/2023/12/01/project-migration-importing-guides/#comment-1651)
