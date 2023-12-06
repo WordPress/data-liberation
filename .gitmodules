@@ -4,3 +4,6 @@
 [submodule "tools/divi-to-gutenberg/divi-migration-tools"]
 	path = tools/divi-to-gutenberg/divi-migration-tools
 	url = https://github.com/a8cteam51/divi-migration-tools
+[submodule "tools/classic-to-gutenberg/convert-to-blocks"]
+	path = tools/classic-to-gutenberg/convert-to-blocks
+	url = https://github.com/10up/convert-to-blocks
