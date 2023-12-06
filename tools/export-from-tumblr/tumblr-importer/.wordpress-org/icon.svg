@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Tumblr Importer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#99D9ED" offset="0%"></stop>
+            <stop stop-color="#33B3DB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FBFBFC" offset="0%"></stop>
+            <stop stop-color="#F3F4F5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M72.4713872,111 L92.0026372,111 C95.2497075,111 97.8620122,113.612305 97.8620122,116.859375 L97.8620122,157.875 L119.273145,157.875 C123.618848,157.875 125.7917,163.124023 122.715528,166.200195 L85.5817387,203.358398 C83.750684,205.189453 69.2243168,111 72.4713872,111 Z" id="path-3"></path>
+        <filter x="-2.9%" y="-1.6%" width="105.8%" height="103.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.11372549   0 0 0 0 0.11372549   0 0 0 0 0.105882353  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M52.734375,0 L72.265625,0 C75.5126953,0 78.125,2.61230469 78.125,5.859375 L78.125,46.875 L99.5361328,46.875 C103.881836,46.875 106.054687,52.1240234 102.978516,55.2001953 L65.8447266,92.3583984 C64.0136719,94.1894531 61.0107422,94.1894531 59.1796875,92.3583984 L21.9970703,55.2001953 C18.9208984,52.1240234 21.09375,46.875 25.4394531,46.875 L46.875,46.875 L46.875,5.859375 C46.875,2.61230469 49.4873047,0 52.734375,0 Z M125,91.796875 L125,119.140625 C125,122.387695 122.387695,125 119.140625,125 L5.859375,125 C2.61230469,125 0,122.387695 0,119.140625 L0,91.796875 C0,88.5498047 2.61230469,85.9375 5.859375,85.9375 L41.6748047,85.9375 L53.6376953,97.9003906 C58.5449219,102.807617 66.4550781,102.807617 71.3623047,97.9003906 L83.3251953,85.9375 L119.140625,85.9375 C122.387695,85.9375 125,88.5498047 125,91.796875 Z" id="path-5"></path>
+        <filter x="-26.4%" y="-26.4%" width="152.8%" height="152.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.403921569   0 0 0 0 0.6  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Tumblr-Importer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="256" height="256"></rect>
+        <g id="tumblr-square" transform="translate(76.000000, 20.000000)">
+            <rect id="Rectangle-5" fill="#FFFFFF" x="0" y="0" width="160" height="160" rx="18"></rect>
+            <path d="M142.857143,0 L17.1428571,0 C7.67857143,0 0,7.67857143 0,17.1428571 L0,142.857143 C0,152.321429 7.67857143,160 17.1428571,160 L142.857143,160 C152.321429,160 160,152.321429 160,142.857143 L160,17.1428571 C160,7.67857143 152.321429,0 142.857143,0 Z M113.464286,130.071429 C110.428571,133.321429 102.321429,137.142857 91.7142857,137.142857 C64.75,137.142857 58.8928571,117.321429 58.8928571,105.75 L58.8928571,73.6071429 L48.2857143,73.6071429 C47.0714286,73.6071429 46.0714286,72.6071429 46.0714286,71.3928571 L46.0714286,56.2142857 C46.0714286,54.6071429 47.0714286,53.1785714 48.6071429,52.6428571 C62.4642857,47.75 66.7857143,35.6785714 67.4285714,26.5 C67.6071429,24.0357143 68.8928571,22.8571429 71,22.8571429 L86.8214286,22.8571429 C88.0357143,22.8571429 89.0357143,23.8571429 89.0357143,25.0714286 L89.0357143,50.7857143 L107.571429,50.7857143 C108.785714,50.7857143 109.785714,51.7857143 109.785714,53 L109.785714,71.25 C109.785714,72.4642857 108.785714,73.4642857 107.571429,73.4642857 L88.9642857,73.4642857 L88.9642857,103.214286 C88.9642857,110.857143 94.25,115.178571 104.142857,111.214286 C105.214286,110.785714 106.142857,110.5 107,110.714286 C107.785714,110.892857 108.285714,111.464286 108.642857,112.464286 L113.571429,126.821429 C113.928571,127.964286 114.285714,129.214286 113.464286,130.071429 Z" id="Shape" fill="#2E495F" fill-rule="nonzero"></path>
+        </g>
+        <g id="Path">
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+        </g>
+        <g id="download" transform="translate(20.000000, 111.000000)" fill-rule="nonzero">
+            <g>
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+        </g>
+    </g>
+</svg>
