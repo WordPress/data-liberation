@@ -1,5 +1,5 @@
 # Divi to Gutenberg
 
 ## Tools
-- [Divi Migration Tools](https://github.com/WordPress/move-to-wp/tree/trunk/tools/divi-to-gutenberg/divi-migration-tools) 
+- [Divi Migration Tools](https://github.com/a8cteam51/divi-migration-tools/) 
 
