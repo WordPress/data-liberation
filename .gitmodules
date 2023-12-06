@@ -1,0 +1,3 @@
+[submodule "tools/tumblr-importer"]
+	path = tools/tumblr-importer
+	url = https://github.com/wordpress/tumblr-importer
