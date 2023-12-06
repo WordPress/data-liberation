@@ -18,7 +18,7 @@ Explore the existing guides in the repository and contribute improvements or cor
 
 If you have an idea for a new guide, please use our issue template to suggest it. We welcome your input and creativity!
 
-[Link to Issue Template]
+[Start a discussion](https://github.com/WordPress/move-to-wp/discussions/new?category=ideas)
 
 ### Contribute to Tooling
 
@@ -34,4 +34,4 @@ Explore the list of community tools and consider contributing enhancements or fi
 
 If you have developed a new tool that aligns with our project's objectives, we encourage you to submit it for consideration.
 
-[Link to Tools]
+[Start a discussion](https://github.com/WordPress/move-to-wp/discussions/new?category=ideas)
