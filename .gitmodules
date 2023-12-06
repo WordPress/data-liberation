@@ -1,3 +1,6 @@
 [submodule "tools/import-from-tumblr/tumblr-importer"]
 	path = tools/import-from-tumblr/tumblr-importer
 	url = https://github.com/WordPress/tumblr-importer
+[submodule "tools/divi-to-gutenberg/divi-migration-tools"]
+	path = tools/divi-to-gutenberg/divi-migration-tools
+	url = https://github.com/a8cteam51/divi-migration-tools
