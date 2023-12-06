@@ -1,4 +1,8 @@
-# Guides
+# Data Migration Guides
+
+Explore the curated list of guides tailored to various platforms. Each guide is designed to help you smoothly move over to WordPress, ensuring a hassle-free transition. Feel free to contribute your own guides or improvements to existing ones.
+
+## Guides
 
 - [Squarespace to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/squarespace-to-wordpress.md)
 - [WIX to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/wix-to-wordpress.md)
