@@ -12,7 +12,7 @@ Thank you for considering contributing to [Project Name TBD]! There are various 
 
 Explore the existing guides in the repository and contribute improvements or corrections. Your insights are valuable to the community.
 
-[Link to Guides in Repo]
+[List of Existing Guides](https://github.com/WordPress/move-to-wp/tree/trunk/guides)
 
 #### Suggest a New Guide
 
@@ -28,7 +28,7 @@ Our project relies on a set of tools and plugins to enhance functionality. You c
 
 Explore the list of community tools and consider contributing enhancements or fixes to make them even more robust.
 
-[List of Community Tools]
+[List of Community Tools](https://github.com/WordPress/move-to-wp/tree/trunk/tools)
 
 #### Submit a New Tool
 
