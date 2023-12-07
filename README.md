@@ -1,6 +1,6 @@
-# Project Name TBD
+# Data Liberation
 
-Welcome to [Project Name TBD]! This section provides a brief overview of the project and its goals.
+Welcome to Data Liberation! This section provides a brief overview of the project and its goals.
 
 ## Overview
 
@@ -12,7 +12,7 @@ Join others working on this effort in [slack channel name TBD]. Ask questions, s
 
 ## How to Contribute
 
-Thank you for considering contributing to [Project Name TBD]! There are various ways you can get involved:
+Thank you for considering contributing to Data Liberation! There are various ways you can get involved:
 
 ### Help Create Guides
 
