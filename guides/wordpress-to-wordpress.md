@@ -20,4 +20,9 @@ When the 'Download Export File' button is clicked, the export will be prepared a
 
 In your *new* site you can start the import by going to Tools > Import. 
 
+![](https://raw.githubusercontent.com/WordPress/move-to-wp/HEAD/assets/import_screen_install_wordpress.png)
+
+Click the 'Install Now' link on the Wordpress Importer, and then click 'Run Importer' once the installation is complete.
+
+
 
