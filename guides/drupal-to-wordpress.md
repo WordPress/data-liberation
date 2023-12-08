@@ -1,5 +1,17 @@
 # Drupal to WordPress
 
+🚧 **This Guide is a Work in Progress! We Need Your Help!** 🚧
+
+We are in the process of creating a comprehensive guide to help users migrate from WIX to WordPress. Your insights and contributions are invaluable to make this guide more complete and helpful for the community.
+
+## How You Can Contribute
+
+- **Review and Edit:** If you have experience with Squarespace to WordPress migration, review the existing content, and make edits for accuracy and clarity.
+
+- **Add Missing Steps:** If you notice any steps missing or have additional tips, please contribute by adding them to the guide.
+
+- **Share Your Experience:** Share your personal experience or best practices that can benefit others going through the migration process.
+
 Many resources are available to help you migrate content from Drupal to WordPress. A few are highlighted here, and you’re likely to find many others by searching the web.
 
 1. [FG Drupal to WordPress](https://wordpress.org/plugins/fg-drupal-to-wp/): This is compatible with Drupal 6, 7, and 8.
