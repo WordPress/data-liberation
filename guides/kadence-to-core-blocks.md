@@ -50,22 +50,22 @@ Advanced Gallery: can be recreated as a [Gallery block](https://wordpress.org/do
 
 ## Comparison Chart
 
-| **Kadence block** | **Comparable default option** |
-| Row layout | ✅ Row block |
-| Advanced gallery | ✅ Gallery block |
-| Form | ❌ In progress |
-| Advanced Text | ❌ |
-| Advanced Button | ✅ Buttons block |
-| Tabs | ❌ |
-| Accordion | ✅ Details block |
-| Testimonials | ✅ Use patterns/create your own |
-| Icon | ❌ |
-| Spacer/Divider | ✅ Spacer block |
-| Info Box | ✅ Recreate with Core blocks |
-| Icon list | ❌ Under discussion |
-| Countdown | ❌ |
-| Posts | ✅ Posts List block |
-| Table of Contents | ❌ In progress |
-| Lottie Animation | ❌ |
-
+| **Kadence block** | **Comparable default option**  |
+|-------------------|--------------------------------|
+| Row layout        | ✅ Row block                    |
+| Advanced gallery  | ✅ Gallery block                |
+| Form              | ❌ In progress                  |
+| Advanced Text     | ❌                              |
+| Advanced Button   | ✅ Buttons block                |
+| Tabs              | ❌                              |
+| Accordion         | ✅ Details block                |
+| Testimonials      | ✅ Use patterns/create your own |
+| Icon              | ❌                              |
+| Spacer/Divider    | ✅ Spacer block                 |
+| Info Box          | ✅ Recreate with Core blocks    |
+| Icon list         | ❌ Under discussion             |
+| Countdown         | ❌                              |
+| Posts             | ✅ Posts List block             |
+| Table of Contents | ❌ In progress                  |
+| Lottie Animation  | ❌                              |
 
