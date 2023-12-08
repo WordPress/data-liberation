@@ -2,7 +2,7 @@
 
 Great news! WordPress has built in tools to help you export your content from one site, and then import it into another.
 
-## Export your site
+## Step 1: Export your site
 
 The first step is to export your content from the source site (the existing site you want to move). You can do that by going to **Tools > Export** in the admin menu of your site.
 
@@ -16,7 +16,7 @@ Selecting one of the other options will export *only* that content from the site
 
 When the 'Download Export File' button is clicked, the export will be prepared and then downloaded as `WXR` file - which is an XML file that WordPress uses for importing and exporting content. 
 
-## Install the WordPress Importer
+## Step 2: Install the WordPress Importer
 
 In your *new* site you can start the import by going to Tools > Import. 
 
@@ -24,13 +24,13 @@ In your *new* site you can start the import by going to Tools > Import.
 
 Click the 'Install Now' link on the Wordpress Importer, and then click 'Run Importer' once the installation is complete.
 
-## Upload your WXR file
+## Step 3: Upload your WXR file
 
 Click 'Choose File' then locate and select the WXR that you downloaded from the original site. Then click 'Upload File and Import'.
 
 ![](https://raw.githubusercontent.com/WordPress/move-to-wp/HEAD/assets/import_wordpress_upload_file.png)
 
-## Select your import options
+## Step 4: Select your import options
 
 One the file is uploaded you will given some options on how to handle the data while importing:
 
