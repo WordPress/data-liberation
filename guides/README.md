@@ -15,8 +15,8 @@ Explore the curated list of guides tailored to various platforms. Each guide is 
 - [Drupal to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/drupal-to-wordpress.md)
 
 ## Page Builders
-- [Elementor to WordPress Core blocks](https://github.com/WordPress/move-to-wp/blob/trunk/guides/elementor-to-core-blocks.md))
-- [Divi to WordPress Core blocks](https://github.com/WordPress/move-to-wp/blob/trunk/guides/divi-to-core-blocks.md))
-- [Avada to WordPress Core blocks](https://github.com/WordPress/move-to-wp/blob/trunk/guides/avada-to-core-blocks.md))
-- [Kadence Blocks to WordPress Core blocks](https://github.com/WordPress/move-to-wp/blob/trunk/guides/kadence-to-core-blocks.md))
-- [WP Bakery to WordPress Core blocks](https://github.com/WordPress/move-to-wp/blob/trunk/guides/wpbakery-to-core-blocks.md))
+- [Elementor to WordPress Core blocks](https://github.com/WordPress/move-to-wp/blob/trunk/guides/elementor-to-core-blocks.md)
+- [Divi to WordPress Core blocks](https://github.com/WordPress/move-to-wp/blob/trunk/guides/divi-to-core-blocks.md)
+- [Avada to WordPress Core blocks](https://github.com/WordPress/move-to-wp/blob/trunk/guides/avada-to-core-blocks.md)
+- [Kadence Blocks to WordPress Core blocks](https://github.com/WordPress/move-to-wp/blob/trunk/guides/kadence-to-core-blocks.md)
+- [WP Bakery to WordPress Core blocks](https://github.com/WordPress/move-to-wp/blob/trunk/guides/wpbakery-to-core-blocks.md)
