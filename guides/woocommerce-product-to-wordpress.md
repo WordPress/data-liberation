@@ -15,4 +15,26 @@ Clicking the 'Generate CSV' will create and download a CSV file containing your 
 
 ## Step 2: Install WooCommerce on your new site
 
+First of all, you'll need WooCommerce installed on your site (if it isn't already).
 
+In your admin menu go to Plugins > Add New and then search for WooCommerce. Click on 'Install', and then 'Activate'
+
+
+## Step 3: Import your products
+
+Once WooCommerce is installed, you can go to WooCommerce > Products in your admin menu and click 'Import' at the top. The Upload CSV File screen will display.
+
+![](https://raw.githubusercontent.com/WordPress/move-to-wp/HEAD/assets/product-csv-import-01.webp)
+
+Select Choose File and the CSV you wish you use and click 'Continue'. For further information on the other options in this screen - [check out WooCommerce's more details documentation](https://woo.com/document/product-csv-importer-exporter/?quid=bfdabf3117c866ffaf4ad5b58820b55d#adding-new-products.
+
+Now you will see the 'Column Mapping' screen where WooCommerce automatically attempts to match or “map” the Column Name from your CSV to Fields.
+
+![](https://raw.githubusercontent.com/WordPress/move-to-wp/HEAD/assets/woo_columnmapping.webp)
+
+Making any adjustments you would like (using the dropdown menus for each field) and then click 'Run the importer'. 
+
+Wait until the Importer is finished. Do not refresh or touch the browser while in progress.
+
+## That's it!
+Your products are now imported - you can view them under 'Products' in the main admin menu.
