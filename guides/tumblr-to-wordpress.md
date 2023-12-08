@@ -35,6 +35,8 @@ Sometimes the importer finds an embed it can’t convert. A list of these is inc
 
 If your Tumblr site has a custom domain (like yourgroovydomain.com instead of automattic.tumblr.com), then you’ll need to disable the custom domain temporarily while the import is processed. You can do this on Tumblr by clicking on Settings on the left, choosing the blog you’d like to update on the right, then toggling the “Use a custom domain” marker to the off position.
 
+Please remember that if you have any trouble with the import process - you can [ask for assistance in the forums](https://wordpress.org/support/plugin/tumblr-importer/).
+
 ## Step 4: Start using WordPress
 
 * [Take your first steps with WordPress](https://href.li/?https://wordpress.org/documentation/article/first-steps-with-wordpress-block-editor/) in this straight-forward crash course.
