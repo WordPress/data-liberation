@@ -49,7 +49,8 @@ The import process may take a little time - but be patient. You'll be notified o
 
 ## Troubleshooting
 
-Something didn't work as expected? That's ok - here's some suggestions of things you might need to try.
+Something didn’t work as expected? Here are some next steps to try.
+You can also always [ask for assistance in the Support Forums](https://wordpress.org/support/plugin/wordpress-importer/?view=all).
 
 ### WXR file is too big to upload
 Some hosts will have a file upload limit which is lower than the size of your WXR file. You can contact your host for assistance with raising this limit.
