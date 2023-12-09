@@ -8,7 +8,7 @@ This project imagines a more open web where users can seamlessly switch between 
 
 ## Stay Connected
 
-Join others working on this effort in [slack channel name TBD]. Ask questions, share how you'd like to help, and help others get started.
+Join others working on this effort in [#data-liberation](https://wordpress.slack.com/archives/C069AKUBPHB). Ask questions, share how you'd like to help, and help others get started.
 
 ## How to Contribute
 
