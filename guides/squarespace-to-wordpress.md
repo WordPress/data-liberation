@@ -35,8 +35,6 @@ One the file is uploaded you will given some options on how to handle the data w
 
 **A note on importing attachments:** The original site will need to be publicly accessible in order to download the attachments from it.
 
-![](https://raw.githubusercontent.com/WordPress/move-to-wp/HEAD/assets/import_wordpress_assign_authors.png)
-
 ## That's it!
 
 The import process may take a little time - but be patient. You'll be notified once it is complete and then you can check your pages, posts, and other post types to check the content is there!
