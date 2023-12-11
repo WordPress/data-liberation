@@ -1,24 +1,42 @@
 # WIX to WordPress
 
+Whilst Wix doesn't have a dedicated importer for WordPress, it is possible to import your content using the RSS feed.
+
+## Step 1: Download a copy of your RSS feed from WIX
+
+Wix will allow you to view, and download, a copy of your RSS feed. Visit `[yourwebsite.com]/blog-feed.xml` and then save the page that shows (it will look like your content, along with some code. The result will be an XML file which we can use in the next step.
+
+## Step 2: Install the RSS Importer
+
+In your WordPress site you can start the import by going to Tools > Import. 
+Whilst there isn't a dedicated Squarespace importer - the content you exported has been prepared in such a way that you can use the standard WordPress importer!
+
+![](https://raw.githubusercontent.com/WordPress/move-to-wp/HEAD/assets/import_rss.png)
+
+Click the 'Install Now' link on the RSS Importer, and then click 'Run Importer' once the installation is complete.
+
+## Step 3: Upload your XML file
+
+Click 'Choose File' then locate and select the XML file that you downloaded in Step 1. Then click 'Upload File and Import'.
+
+![](https://raw.githubusercontent.com/WordPress/move-to-wp/HEAD/assets/import_rss_upload_file.png)
+
+
+## That's it!
+
+The import process may take a little time - but be patient. You'll be notified once it is complete and then you can check your posts to check the content is there!
+
+
+---
+
 🚧 **This Guide is a Work in Progress! We Need Your Help!** 🚧
 
 We are in the process of creating a comprehensive guide to help users migrate from WIX to WordPress. Your insights and contributions are invaluable to make this guide more complete and helpful for the community.
 
 ## How You Can Contribute
 
-- **Review and Edit:** If you have experience with Wix to WordPress migration, review the existing content, and make edits for accuracy and clarity.
+- **Review and Edit:** If you have experience with RSS to WordPress migration, review the existing content, and make edits for accuracy and clarity.
 
 - **Add Missing Steps:** If you notice any steps missing or have additional tips, please contribute by adding them to the guide.
 
 - **Share Your Experience:** Share your personal experience or best practices that can benefit others going through the migration process.
-
-## Get Started
-
-1. Click on the "Edit" button at the top of this page to make your contributions.
-2. Use clear and concise language to explain steps or provide additional information.
-3. Make sure to mention any potential challenges or considerations users should be aware of.
-4. **Submit Changes as a Pull Request (PR):** After making your edits, submit them as a pull request to initiate the review process.
-
-Let's work together to create a valuable resource for anyone looking to migrate from Squarespace to WordPress!
-
-Thank you for your contributions! 🌟
