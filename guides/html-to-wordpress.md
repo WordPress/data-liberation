@@ -6,7 +6,7 @@ We are in the process of creating a comprehensive guide to help users migrate fr
 
 ## How You Can Contribute
 
-- **Review and Edit:** If you have experience with Squarespace to WordPress migration, review the existing content, and make edits for accuracy and clarity.
+- **Review and Edit:** If you have experience with HTML to WordPress migration, review the existing content, and make edits for accuracy and clarity.
 
 - **Add Missing Steps:** If you notice any steps missing or have additional tips, please contribute by adding them to the guide.
 
