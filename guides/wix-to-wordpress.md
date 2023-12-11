@@ -4,7 +4,7 @@ Whilst Wix doesn't have a dedicated importer for WordPress, it is possible to im
 
 ## Step 1: Download a copy of your RSS feed from WIX
 
-Wix will allow you to view, and download, a copy of your RSS feed. Visit `[yourwebsite.com]/blog-feed.xml` and then save the page that shows (it will look like your content, along with some code. The result will be an XML file which we can use in the next step.
+Wix will allow you to view, and download, a copy of your RSS feed. Visit `[yourwebsite.com]/blog-feed.xml` and then save the page that displays (it will look like your content, along with some code). The result will be an XML file which we can use in the next step.
 
 ## Step 2: Install the RSS Importer
 
