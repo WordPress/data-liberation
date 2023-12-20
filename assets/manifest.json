@@ -1,0 +1,65 @@
+{
+  "wordpress": {
+    "title": "WordPress to WordPress",
+    "slug": "wordpress",
+    "markdown_source": "https://github.com/WordPress/data-liberation/blob/trunk/guides/wordpress-to-wordpress.md",
+    "parent": null,
+    "order": 1
+  },
+  "tumblr": {
+    "title": "Tumblr to WordPress",
+    "slug": "tumblr",
+    "markdown_source": "https://github.com/WordPress/data-liberation/blob/trunk/guides/tumblr-to-wordpress.md",
+    "parent": null,
+    "order": 1
+  },
+  "squarespace": {
+    "title": "Squarespace to WordPress",
+    "slug": "squarespace",
+    "markdown_source": "https://github.com/WordPress/data-liberation/blob/trunk/guides/squarespace-to-wordpress.md",
+    "parent": null,
+    "order": 1
+  },
+  "blogger": {
+    "title": "Blogger to WordPress",
+    "slug": "blogger",
+    "markdown_source": "https://github.com/WordPress/data-liberation/blob/trunk/guides/blogger-to-wordpress.md",
+    "parent": null,
+    "order": 1
+  },
+  "contentful": {
+    "title": "Contentful to WordPress",
+    "slug": "contentful",
+    "markdown_source": "https://github.com/WordPress/data-liberation/blob/trunk/guides/contentful-to-wordpress.md",
+    "parent": null,
+    "order": 1
+  },
+  "drupal": {
+    "title": "Drupal to WordPress",
+    "slug": "drupal",
+    "markdown_source": "https://github.com/WordPress/data-liberation/blob/trunk/guides/drupal-to-wordpress.md",
+    "parent": null,
+    "order": 1
+  },
+ "html": {
+    "title": "HTML to WordPress",
+    "slug": "html",
+    "markdown_source": "https://github.com/WordPress/data-liberation/blob/trunk/guides/html-to-wordpress.md",
+    "parent": null,
+    "order": 1
+  },
+  "rss": {
+    "title": "RSS to WordPress",
+    "slug": "rss",
+    "markdown_source": "https://github.com/WordPress/data-liberation/blob/trunk/guides/rss-to-wordpress.md",
+    "parent": null,
+    "order": 1
+  },
+  "wix": {
+    "title": "WIX to WordPress",
+    "slug": "wix",
+    "markdown_source": "https://github.com/WordPress/data-liberation/blob/trunk/guides/wix-to-wordpress.md",
+    "parent": null,
+    "order": 1
+  }
+}
