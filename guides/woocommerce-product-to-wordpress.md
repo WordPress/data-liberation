@@ -38,3 +38,54 @@ Wait until the Importer is finished. Do not refresh or touch the browser while i
 
 ## That's it!
 Your products are now imported - you can view them under 'Products' in the main admin menu.
+
+# Add or Import Custom Data
+
+# Adding Custom Import Columns (for Developers)
+
+It is a straightforward process to add support for custom columns to the importer. The following example breaks down the process:
+
+    /**
+    * Register the 'Custom Column' column in the importer.
+    *
+    * @param array $options
+    * @return array $options
+    */
+    function add_column_to_importer( $options ) {
+		  // column slug => column name
+		  $options['custom_column'] = 'Custom Column';
+		  return $options;
+	  }
+	  add_filter( 'woocommerce_csv_product_import_mapping_options', 'add_column_to_importer' );
+   
+	  /**
+  	* Add automatic mapping support for 'Custom Column'.
+	  * This will automatically select the correct mapping for columns named 'Custom Column' or 'custom column'.
+	  * @param array $columns
+	  * @return array $columns
+	  */
+	  function add_column_to_mapping_screen( $columns ) {
+		  // potential column name => column slug
+		  $columns['Custom Column'] = 'custom_column';
+		  $columns['custom column'] = 'custom_column';
+		  return $columns;
+	  }
+	  add_filter( 'woocommerce_csv_product_import_mapping_default_columns', 'add_column_to_mapping_screen' );
+   
+	  /**
+	  * Process the data read from the CSV file.
+	  * This just saves the value in meta data, but you can do anything you want here with the data.
+	  * 
+	  * @param WC_Product $object - Product being imported or updated.
+	  * @param array $data - CSV data read for the product.
+	  * @return WC_Product $object
+	  */
+	  function process_import( $object, $data ) {
+		  if ( ! empty( $data['custom_column'] ) ) {
+			  $object->update_meta_data( 'custom_column', $data['custom_column'] );
+		  }
+		  return $object;
+	  }
+	  add_filter( 'woocommerce_product_import_pre_insert_product_object', 'process_import', 10, 2 );
+
+## Adding Custom Export Columns (for Developers)
