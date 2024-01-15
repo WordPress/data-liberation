@@ -6,7 +6,7 @@ You have code that can users move their data freely on the web? Awesome. This re
 
 You need to answer yes to the following items:
 
-- My code contains a `readme.md` in the root directory?
+- My code contains a `readme.md` in the root directory:
   - The readme contains your plugin's name. 
   - The readme explains how to use the tool.
   - The readme explains how to develop the tool.
