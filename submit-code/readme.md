@@ -1,6 +1,6 @@
 # Submitting Code to the Data Liberation Project
 
-You have code that can users move their data freely on the web? Awesome. This readme will provide you with the details and requirements on how to submit your code. If you get stuck along the way, [open an issue](https://github.com/WordPress/data-liberation/issues/new) or reach out in the [#data-liberation slack channel](https://wordpress.slack.com/archives/C069AKUBPHB).
+You have code that can help users move their data freely on the web? Awesome! This readme provides the details and requirements for how to submit your code. If you get stuck along the way, [open an issue](https://github.com/WordPress/data-liberation/issues/new) or reach out in the [#data-liberation slack channel](https://wordpress.slack.com/archives/C069AKUBPHB).
 
 # Requirements
 
