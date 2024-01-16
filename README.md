@@ -42,4 +42,4 @@ Explore the list of community tools and consider contributing enhancements or fi
 
 If you have developed a new tool that aligns with our project's objectives, we encourage you to submit it for consideration.
 
-[Start a discussion](https://github.com/WordPress/move-to-wp/discussions/new?category=ideas)
+[Read more](https://github.com/WordPress/data-liberation/tree/trunk/submit-code)
