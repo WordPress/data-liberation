@@ -12,21 +12,14 @@ Join others working on this effort in [#data-liberation](https://wordpress.slack
 
 ## How to Contribute
 
-Thank you for considering contributing to Data Liberation! There are various ways you can get involved:
+A great way to get started is to check tracking issues which cover the main focus areas of the project. 
 
-### Help Create Guides
+* [Migrating from third-party platforms to WordPress](https://github.com/WordPress/data-liberation/issues/60)
+* [Migrating between Editors and Core/Third Party Blocks](https://github.com/WordPress/data-liberation/issues/59)
+* [Improving WordPress’ Import/Export format (WXR)](https://github.com/WordPress/data-liberation/issues/58)
+* [Migration Guides](https://github.com/WordPress/data-liberation/issues/2)
 
-#### Contribute to Existing Guides
-
-Explore the existing guides in the repository and contribute improvements or corrections. Your insights are valuable to the community.
-
-[List of Existing Guides](https://github.com/WordPress/move-to-wp/tree/trunk/guides)
-
-#### Suggest a New Guide
-
-If you have an idea for a new guide, please use our issue template to suggest it. We welcome your input and creativity!
-
-[Start a discussion](https://github.com/WordPress/move-to-wp/discussions/new?category=ideas)
+You can also...
 
 ### Contribute to Tooling
 
