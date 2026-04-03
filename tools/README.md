@@ -4,6 +4,10 @@ This is a curated list of valuable tools and resources created by our community 
 
 ## Tools by category
 
+### Exporting
+
+- [WEFG](https://github.com/WordPress/data-liberation/tree/trunk/tools/wefg) - Tools for generating WordPress WXR from any CMS, including custom ones
+
 ### Importing
 
 - [Keyring Social Importer](https://github.com/WordPress/data-liberation/tree/trunk/tools/keyring-importer) - Tool to import content from various Social Media sources
