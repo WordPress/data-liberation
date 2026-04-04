@@ -12,3 +12,6 @@ We are in the process of creating a comprehensive guide to help users migrate fr
 
 - **Share Your Experience:** Share your personal experience or best practices that can benefit others going through the migration process.
 
+## Available resources
+- [How to change from Divi to the Block Editor Guide](https://www.pootlepress.com/2021/03/how-to-change-from-divi-to-the-block-editor/) by @jamiemarsland
+ 
