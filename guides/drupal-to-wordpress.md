@@ -14,7 +14,13 @@ We are in the process of creating a comprehensive guide to help users migrate fr
 
 Many resources are available to help you migrate content from Drupal to WordPress. A few are highlighted here, and you’re likely to find many others by searching the web.
 
-1. [FG Drupal to WordPress](https://wordpress.org/plugins/fg-drupal-to-wp/): This is compatible with Drupal 6, 7, and 8.
-2. [Drupal2WordPress Plugin](https://github.com/jpSimkins/Drupal2WordPress-Plugin): Use this plugin to import terms, content, media, comments, and users. Any external images included in your Drupal site can be fetched and added to the media library and added to your pages and posts.
-3. [This tutorial](http://anothercoffee.net/drupal-to-wordpress-migration-explained/) includes workarounds for some migration issues such as duplicate terms, terms exceeding the maximum character length, and duplicate URL aliases.
-4. [How to Convert Drupal to WordPress](http://blondish.net/how-to-convert-drupal-to-wordpress/).
+Before using a third-party migration tool or tutorial, check that it is still maintained and compatible with your Drupal and WordPress versions. Test the migration on a copy of the site before running it on a live WordPress installation.
+
+## Migration resources
+
+1. [FG Drupal to WordPress](https://wordpress.org/plugins/fg-drupal-to-wp/): This plugin migrates articles, stories, pages, categories, tags, and images. The plugin description says it has been tested with Drupal 4 to 11.
+2. [This tutorial](http://anothercoffee.net/drupal-to-wordpress-migration-explained/) includes workarounds for some migration issues such as duplicate terms, terms exceeding the maximum character length, and duplicate URL aliases.
+
+## Archived resources
+
+- [Drupal2WordPress Plugin](https://github.com/jpSimkins/Drupal2WordPress-Plugin): This archived plugin imported terms, content, media, comments, and users. Because the repository is archived, review it carefully before considering it for a current migration.
