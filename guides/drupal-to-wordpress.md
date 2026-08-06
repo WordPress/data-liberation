@@ -19,7 +19,7 @@ Before using a third-party migration tool or tutorial, check that it is still ma
 ## Migration resources
 
 1. [FG Drupal to WordPress](https://wordpress.org/plugins/fg-drupal-to-wp/): This plugin migrates articles, stories, pages, categories, tags, and images. The plugin description says it has been tested with Drupal 4 to 11.
-2. [This tutorial](http://anothercoffee.net/drupal-to-wordpress-migration-explained/) includes workarounds for some migration issues such as duplicate terms, terms exceeding the maximum character length, and duplicate URL aliases.
+2. [This tutorial](https://migratecontent.com/drupal-to-wordpress-migration-sql-queries-explained/) explains the SQL queries involved in a Drupal to WordPress migration, including a workaround for duplicate terms.
 
 ## Archived resources
 
