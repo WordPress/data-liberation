@@ -5,6 +5,7 @@ Explore the curated list of guides tailored to various platforms. Each guide is 
 ## Platforms
 
 - [WordPress to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/wordpress-to-wordpress.md)
+- [WordPress to WordPress with WP-CLI](https://github.com/WordPress/move-to-wp/blob/trunk/guides/wordpress-to-wordpress-wp-cli.md)
 - [Tumblr to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/tumblr-to-wordpress.md)
 - [WooCommerce Products to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/woocommerce-product-to-wordpress.md)
 - [Squarespace to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/squarespace-to-wordpress.md)
