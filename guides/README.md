@@ -10,6 +10,7 @@ Explore the curated list of guides tailored to various platforms. Each guide is 
 - [Squarespace to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/squarespace-to-wordpress.md)
 - [WIX to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/wix-to-wordpress.md)
 - [HTML to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/html-to-wordpress.md)
+- [CSV to WordPress Core blocks](https://github.com/WordPress/move-to-wp/blob/trunk/guides/csv-to-core-blocks.md)
 - [RSS to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/rss-to-wordpress.md)
 - [Blogger to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/blogger-to-wordpress.md)
 - [Drupal to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/drupal-to-wordpress.md)
