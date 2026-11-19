@@ -4,4 +4,4 @@ This README provides a curated list of tools for converting Figma designs into G
 
 ## Tools
 
-- [Figma embed block](https://github.com/10up/figma-block)
+- [Figma embed block](https://github.com/10up/embed-block-figma)
