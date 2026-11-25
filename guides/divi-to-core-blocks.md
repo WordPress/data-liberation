@@ -12,3 +12,4 @@ We are in the process of creating a comprehensive guide to help users migrate fr
 
 - **Share Your Experience:** Share your personal experience or best practices that can benefit others going through the migration process.
 
+Here is a plugin I haven't tested... feedback are welcome: [https://www.sean-barton.co.uk/2017/12/bye-bye-divi/](https://www.sean-barton.co.uk/2017/12/bye-bye-divi/)
