@@ -11,7 +11,7 @@ Clicking the 'Generate CSV' will create and download a CSV file containing your 
 
 ![](https://raw.githubusercontent.com/WordPress/move-to-wp/HEAD/assets/woo-csv-export.webp)
 
-**NOTE:** It is *also* possible to manually create a CSV file, or edit a CSV export from *another* platform to make it fit the data schema WooCommerce expects. You can [download a sample of Product data in the schema](https://github.com/woocommerce/woocommerce/tree/trunk/plugins/woocommerce/sample-data, or find out more in the documentation about the [Product Data CSV Schema](https://github.com/woocommerce/woocommerce/wiki/Product-CSV-Import-Schema#csv-columns-and-formatting).
+**NOTE:** It is *also* possible to manually create a CSV file, or edit a CSV export from *another* platform to make it fit the data schema WooCommerce expects. You can [download a sample of Product data in the schema](https://github.com/woocommerce/woocommerce/tree/trunk/plugins/woocommerce/sample-data), or find out more in the documentation about the [Product Data CSV Schema](https://github.com/woocommerce/woocommerce/wiki/Product-CSV-Import-Schema#csv-columns-and-formatting).
 
 ## Step 2: Install WooCommerce on your new site
 

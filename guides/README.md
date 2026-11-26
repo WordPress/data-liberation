@@ -14,6 +14,8 @@ Explore the curated list of guides tailored to various platforms. Each guide is 
 - [Blogger to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/blogger-to-wordpress.md)
 - [Drupal to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/drupal-to-wordpress.md)
 - [Textpattern to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/textpattern-to-wordpress.md)
+- [Movable Type or TypePad to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/movable-type-to-wordpress.md)
+- [Joomla to WordPress](https://github.com/WordPress/move-to-wp/blob/trunk/guides/joomla-to-wordpress.md)
 
 ## Page Builders
 - [Elementor to WordPress Core blocks](https://github.com/WordPress/move-to-wp/blob/trunk/guides/elementor-to-core-blocks.md)
